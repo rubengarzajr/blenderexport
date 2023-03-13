@@ -1,5 +1,7 @@
 # Blender Exporter
 
+Model/Armature exporter.
+
 ## Usage
 
 ## Versions supported
